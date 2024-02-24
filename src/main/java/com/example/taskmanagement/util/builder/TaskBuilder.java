@@ -3,6 +3,7 @@ package com.example.taskmanagement.util.builder;
 import com.example.taskmanagement.model.Task;
 
 public class TaskBuilder {
+
   private final Task task;
 
   public TaskBuilder() {

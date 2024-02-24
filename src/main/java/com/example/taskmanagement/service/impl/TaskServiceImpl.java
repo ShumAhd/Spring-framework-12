@@ -2,10 +2,9 @@ package com.example.taskmanagement.service.impl;
 
 import com.example.taskmanagement.model.Task;
 import com.example.taskmanagement.service.TaskService;
-import org.springframework.stereotype.Service;
-
 import java.util.ArrayList;
 import java.util.List;
+import org.springframework.stereotype.Service;
 
 @Service
 public class TaskServiceImpl implements TaskService {
